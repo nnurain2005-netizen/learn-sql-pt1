@@ -6,6 +6,7 @@ some sql format database
 RDBMS Terminology (Ringkas):
 
 Database: Kumpulan jadual (table) yang saling berkaitan.
+
 Table: Jadual data seperti spreadsheet.
 Column: Lajur yang menyimpan jenis data yang sama.
 Row: Baris data bagi satu rekod.
